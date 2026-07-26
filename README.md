@@ -86,7 +86,7 @@ pepper-classifier/
 
 The application is deployed on **Streamlit Community Cloud**.
 
-🔗 **Live App:** `<insert your deployed Streamlit URL here>`
+🔗 **Live App:** https://pepper-classifier-buxjp8thepzegeuucgszvk.streamlit.app
 
 To deploy your own copy:
 1. Push this repository to GitHub (include `pepper_model.keras`, or use Git
@@ -98,8 +98,7 @@ To deploy your own copy:
 ## Team Members
 
 | Name | Registration Number | GitHub Username |
-|------|----------------------|------------------|
-| `<Name 1>` | `<Reg No>` | `<GitHub handle>` |
+|AKPAN,EMMANUEL NSEMEKE|22/EG/EE/2055 | Emmilzy |
 | `<Name 2>` | `<Reg No>` | `<GitHub handle>` |
 | `<Name 3>` | `<Reg No>` | `<GitHub handle>` |
 
