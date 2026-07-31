@@ -100,7 +100,7 @@ To deploy your own copy:
 | Name                  | Registration Number | GitHub Username |
 |AKPAN,EMMANUEL NSEMEKE|22/EG/EE/2055 | Emmilzy |
 | UBAK, GORDON INI-OBONG| 22/EG/EE/2045 | GordonUbak |
-| `<Name 3>` | `<Reg No>` | `<GitHub handle>` |
+| Sunday,Nsikakabasi | 22/EG/EE/2005 | nsikaksunday621-ship-it |
 
 ## Course Learning Outcomes Addressed
 
