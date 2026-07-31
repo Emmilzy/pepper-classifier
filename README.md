@@ -99,7 +99,7 @@ To deploy your own copy:
 
 | Name                  | Registration Number | GitHub Username |
 |AKPAN,EMMANUEL NSEMEKE|22/EG/EE/2055 | Emmilzy |
-| `<Name 2>` | `<Reg No>` | `<GitHub handle>` |
+| UBAK, GORDON INI-OBONG| 22/EG/EE/2045 | `<GitHub handle>` |
 | `<Name 3>` | `<Reg No>` | `<GitHub handle>` |
 
 ## Course Learning Outcomes Addressed
