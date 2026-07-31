@@ -106,7 +106,7 @@ To deploy your own copy:
 | OBASI,CHIDERA NWACHUKWU  |  22/EG/EE/2035  |  chidexobc-tech|
 |    Jonas, Prosper Ihuchukwu |    22/EG/EE/1975          |  Prospy-songs                      |
 | INEMESIT NSIMA NKANTA  | 22/EG/EE/2065 |Happiness614 |                            |                 |                           |
-|                             |                 |                          |
+|TOBY, WISDOM TITUS 22/EG /EE/2095        Wisdomtoby7                     |                 |                          |
 |                           |                  |                           |
 
 
