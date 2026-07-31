@@ -97,7 +97,7 @@ To deploy your own copy:
 
 ## Team Members
 
-| Name | Registration Number | GitHub Username |
+| Name                  | Registration Number | GitHub Username |
 |AKPAN,EMMANUEL NSEMEKE|22/EG/EE/2055 | Emmilzy |
 | `<Name 2>` | `<Reg No>` | `<GitHub handle>` |
 | `<Name 3>` | `<Reg No>` | `<GitHub handle>` |
@@ -106,7 +106,7 @@ To deploy your own copy:
 
 - **CLO5:** Designed, trained, and evaluated a CNN (transfer learning) model
   for image classification using TensorFlow/Keras.
-- **CLO7:** Deployed the trained model as a cloud-based web application using
+ - **CLO7:** Deployed the trained model as a cloud-based web application using
   Streamlit, managed via Git/GitHub.
 - **CLO8:** Documented the experimental process and results in this README
   and the accompanying report.
