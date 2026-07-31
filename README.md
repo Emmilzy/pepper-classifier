@@ -104,7 +104,12 @@ To deploy your own copy:
 | Sunday,Nsikakabasi Lawrence| 22/EG/EE/2005 | nsikaksunday621-ship-it |
 | Akpan, Saviour Friday| 22/EG/EE/2025| Sahviour205-web| 
 | OBASI,CHIDERA NWACHUKWU  |  22/EG/EE/2035  |  chidexobc-tech|
-|    Jonas, Prosper Ihuchukwu                  |    22/EG/EE/1975          |  Prospy-songs                      |
+|    Jonas, Prosper Ihuchukwu |    22/EG/EE/1975          |  Prospy-songs                      |
+|                             |                 |                           |
+|                             |                 |                          |
+|                           |                  |                           |
+
+
 
 ## Course Learning Outcomes Addressed
 
