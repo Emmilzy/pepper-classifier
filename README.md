@@ -99,6 +99,7 @@ To deploy your own copy:
 
 | Name                  | Registration Number | GitHub Username |
 |AKPAN,EMMANUEL NSEMEKE|22/EG/EE/2055 | Emmilzy |
+|DICK, MBEREOBONG AKPAN|22/EG/EE/2075|GONZALEZDICK|
 | UBAK, GORDON INI-OBONG| 22/EG/EE/2045 | GordonUbak |
 | Sunday,Nsikakabasi Lawrence| 22/EG/EE/2005 | nsikaksunday621-ship-it |
 | Akpan, Saviour Friday| 22/EG/EE/2025| Sahviour205-web| 
