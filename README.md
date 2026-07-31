@@ -114,3 +114,4 @@ To deploy your own copy:
   Streamlit, managed via Git/GitHub.
 - **CLO8:** Documented the experimental process and results in this README
   and the accompanying report.
+| INEMESIT NSIMA NKANTA| 22/EG/EE/2065| Happiness614|
