@@ -108,7 +108,7 @@ To deploy your own copy:
 | INEMESIT NSIMA NKANTA  | 22/EG/EE/2065 |Happiness614 |                            |                 |                           |
 |TOBY, WISDOM TITUS 22/EG /EE/2095        Wisdomtoby7                     |                 |                          |
 |      Bassey ekemini aniefiok |22/EG/EE/2015 |basseyekemini32-wq                  |                  |                           |
-
+Uwemedimo Joseph Udoh| 22/EG/EE/1965| uwem-https
 
 
 ## Course Learning Outcomes Addressed
