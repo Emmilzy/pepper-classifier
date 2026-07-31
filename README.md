@@ -105,7 +105,7 @@ To deploy your own copy:
 | Akpan, Saviour Friday| 22/EG/EE/2025| Sahviour205-web| 
 | OBASI,CHIDERA NWACHUKWU  |  22/EG/EE/2035  |  chidexobc-tech|
 |    Jonas, Prosper Ihuchukwu |    22/EG/EE/1975          |  Prospy-songs                      |
-|                             |                 |                           |
+| INEMESIT NSIMA NKANTA  | 22/EG/EE/2065 |Happiness614 |                            |                 |                           |
 |                             |                 |                          |
 |                           |                  |                           |
 
@@ -119,4 +119,3 @@ To deploy your own copy:
   Streamlit, managed via Git/GitHub.
 - **CLO8:** Documented the experimental process and results in this README
   and the accompanying report.
-| INEMESIT NSIMA NKANTA| 22/EG/EE/2065| Happiness614|
