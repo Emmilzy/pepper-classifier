@@ -109,7 +109,7 @@ To deploy your own copy:
 |TOBY, WISDOM TITUS 22/EG /EE/2095        Wisdomtoby7                     |                 |                          |
 |      Bassey ekemini aniefiok |22/EG/EE/2015 |basseyekemini32-wq                  |                  |                           |
 Uwemedimo Joseph Udoh| 22/EG/EE/1965| uwem-https
-
+Daniel Ezekiel Okon | 22/EG/EE/2115 | Danieletuk274
 
 ## Course Learning Outcomes Addressed
 
