@@ -104,12 +104,12 @@ To deploy your own copy:
 | Sunday,Nsikakabasi Lawrence| 22/EG/EE/2005 | nsikaksunday621-ship-it |
 | Akpan, Saviour Friday| 22/EG/EE/2025| Sahviour205-web| 
 | OBASI,CHIDERA NWACHUKWU  |  22/EG/EE/2035  |  chidexobc-tech|
-|    Jonas, Prosper Ihuchukwu |    22/EG/EE/1975          |  Prospy-songs                      |
-| INEMESIT NSIMA NKANTA  | 22/EG/EE/2065 |Happiness614 |                            |                 |                           |
-|TOBY, WISDOM TITUS 22/EG /EE/2095        Wisdomtoby7                     |                 |                          |
-|      Bassey ekemini aniefiok |22/EG/EE/2015 |basseyekemini32-wq                  |                  |                           |
-Uwemedimo Joseph Udoh| 22/EG/EE/1965| uwem-https
-Daniel Ezekiel Okon | 22/EG/EE/2115 | Danieletuk274
+|Jonas, Prosper Ihuchukwu |    22/EG/EE/1975  |  Prospy-songs |
+| INEMESIT NSIMA NKANTA  | 22/EG/EE/2065 |Happiness614 |                               
+|TOBY, WISDOM TITUS |22/EG /EE/2095       |Wisdomtoby7   |       
+|Bassey ekemini aniefiok |22/EG/EE/2015 |basseyekemini32-wq |                        
+Uwemedimo Joseph Udoh| 22/EG/EE/1965| uwem-https|
+Daniel Ezekiel Okon | 22/EG/EE/2115 | Danieletuk274|
 
 ## Course Learning Outcomes Addressed
 
